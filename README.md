@@ -3,7 +3,7 @@ hi im jordan, i'm a second year computer science student at the University of To
 I'm a 2nd year Computer Science student at the University of Toronto.
 I'm passionate about AI and I love building things that are both useful and fun.
 
-tech stack:
+# tech stack:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
