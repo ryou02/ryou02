@@ -1,4 +1,4 @@
-hi im jordan, i'm a second year computer science student at the University of Toronto. i'm passionate about ai and building projects.
+hi im jordan, i'm a second year computer science student at uoft. i'm passionate about ai and building projects.
 
 # tech stack:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
