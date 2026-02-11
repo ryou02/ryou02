@@ -1,4 +1,4 @@
-hi im jordan, a second year computer science major + math & stats minor at uoft. i'm passionate about ai and building projects.
+hi im jordan, a computer science major with a minor in math + stats at uoft. i'm passionate about ai and building projects.
 
 # tech stack:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
