@@ -1,2 +1,3 @@
-hi im jordan, a computer science major with a minor in math + stats at uoft. i'm passionate about ai and building projects.
-
+<p align="center">
+  <img src="https://media4.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" alt="GitHub Banner GIF" />
+</p>
