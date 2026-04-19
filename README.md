@@ -3,9 +3,3 @@
 </p>
 
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![Claude](https://img.shields.io/badge/Claude-d97706?style=for-the-badge&logo=anthropic&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white&labelColor=111111)
